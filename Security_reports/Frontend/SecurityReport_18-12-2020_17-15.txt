@@ -1,0 +1,8 @@
+
+##########RESULTS##########
+
+FILE->logs/test_steal_front.txt
+TOTAL LOGS->20
+SQL INJECTIONS->0
+XSS INJECTIONS->0
+PERCENTAGE OF SUSPECT LOGS->0.0%

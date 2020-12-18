@@ -7,9 +7,9 @@
 import sys
 import os.path
 from package.common_functions.common_1 import *
-from package.InovaFrontLogs.import_log import *
-from package.InovaBackLogs.import_log import *
-from package.InovaFrontLogs.security_verifications import SearchSQLinjection, SearchXSSattack, SearchCSRFattack, SearchWebAppExtracting, security_common_functions as sec_common
+from package.CLFLogsFunctions.import_log import *
+from package.BackLogs.import_log import *
+from package.CLFLogsFunctions.security_verifications import SearchSQLinjection, SearchXSSattack, SearchCSRFattack, SearchWebAppExtracting, security_common_functions as sec_common
 
 ###################FRONT FUNCTIONS####################
 
